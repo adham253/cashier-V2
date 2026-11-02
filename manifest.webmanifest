@@ -1,0 +1,25 @@
+{
+  "name": "سدرة | كاشير الموبايل التجريبي",
+  "short_name": "كاشير سدرة",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffedcc",
+  "theme_color": "#003320",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "id": "./sedra-v2",
+  "description": "كاشير سدرة التجريبي: بيع سريع وآجل وباركود دون إنترنت"
+}
